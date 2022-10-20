@@ -1,6 +1,6 @@
 # Machine Learning Frameworks Interoperability
 
-![Cover](./data/cover.png "Machine Learning Frameworks Interoperability")
+![Cover](./img/cover.png "Machine Learning Frameworks Interoperability")
 
 ## Introduction
 
